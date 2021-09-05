@@ -1,6 +1,6 @@
 ### Scribe's Oath 👋
 
-I hereby declare on a sribe's oath, to strive for the highest quality:
+I hereby declare on a scribe's oath, to strive for the highest quality:
 
 1. I will not produce harmful code.
 2. The code that I produce will always be my best work. I will not knowingly allow code that is defective either in behaviour or structure to accumulate.
