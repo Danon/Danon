@@ -10,6 +10,6 @@ I, Daniel Wilkowski, hereby declare on a scribe's oath, to strive for the highes
 6. I will do all that I can to keep the productivity, mine and my collaborators, as high as possible.  I will do nothing that decreases productivity.
 7. I will continuously ensure that others can cover for me, and that I can cover for them.
 8. I will produce estimates that are honest both in magnitude and precision. I will not make promises without certainty.
-9. I will never stop learning and improving my craft.
+9. I will not stop learning and improving my craft.
 
 *Scribe's Oath was postulated by Robert Martin.*
