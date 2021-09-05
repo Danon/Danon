@@ -1,6 +1,6 @@
 ### Scribe's Oath 👋
 
-I, Daniel Wilkowski, hereby declare on a scribe's oath, to strive for the highest quality. I will stay true to the oath, as long as I craft software in any form.
+I, Daniel Wilkowski, hereby declare that I take on Scribe's Oath, to achieve the highest code quality. I will stay true to the oath, as long as I craft software in any form.
 
 1. I will not produce harmful code.
 2. The code that I produce will always be my best work. I will not knowingly allow code that is defective either in behaviour or structure to accumulate.
